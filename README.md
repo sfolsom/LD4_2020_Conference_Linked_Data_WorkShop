@@ -27,12 +27,20 @@ Individuals brought into linked data projects need to understand certain fundame
 * web browser
 * curl command line tool  -  *Most machines come with with curl installed. To check, open your command line window and enter `curl --help`. If you don't see a help menu after hitting enter, then go to https://curl.haxx.se/dlwiz/ to install it.*
 
+## Ground rules
+In discussion spaces, let’s please adhere to the [Recurse Center’s Social Rules](https://www.recurse.com/manual#sub-sec-social-rules) (special thanks to Christina Harlow for making me aware of these)
+
+* No feigning surprise; e.g. “Wow, you don’t know…?!?”
+* No well-actually’s
+* No backseat driving; if you’re going to help, fully engage
+* No subtle-isms (small things that make others feel unwelcomed)
+
 
 ## N.B.
 This workshop is a reformatting of a previously held in-person workshop: https://docs.google.com/presentation/d/1RtDqWRCSmQgge8voYCaCkT3AV3U5IDhfHlFrEW_CMlk/edit?usp=sharing. This is the first time this content will be provided as an asychronous experience. Don't hesitate to make contact if any aspect of this format isn't working for you, sf433(at)cornell(dot)edu.
 
 
-## Getting started
+## Now let's get started!
 To begin, please see the [Workshop Outline](https://github.com/sfolsom/LD4_2020_Conference_Linked_Data_WorkShop/wiki/A-Hands-on-Look-at-Linked-Data-Workshop-Outline).
 
 ## License
