@@ -1,4 +1,4 @@
-# A Hands-on Look at Linked Data
+# !!DRAFT!! A Hands-on Look at Linked Data
 Here you will find support materials for a workshop offered as part of the LD4 2020 Conference, meant to introduce participants to concepts and tools for accessing and querying linked data.
 
 ## Format
@@ -22,3 +22,8 @@ Attendees will need a computer with internet, web browser, and cURL installed
 
 ## N.B.
 This workshop is a reformatting of a previously held in-person workshop: https://docs.google.com/presentation/d/1RtDqWRCSmQgge8voYCaCkT3AV3U5IDhfHlFrEW_CMlk/edit?usp=sharing. This is the first time this content will be provided as an asychronous experience. Don't hesitate to make contact if any aspect of this format isn't working for you, sf433(at)cornell(dot)edu.
+
+## Getting started
+To begin, please see the [Workshop Outline](https://github.com/sfolsom/LD4_2020_Conference_Linked_Data_WorkShop/wiki/A-Hands-on-Look-at-Linked-Data-Workshop-Outline).
+
+
