@@ -1,5 +1,5 @@
 # !!DRAFT!! A Hands-on Look at Linked Data
-Here you will find support materials for a workshop offered as part of the LD4 2020 Conference, meant to introduce participants to concepts and tools for accessing and querying linked data.
+Here you will find support materials for a workshop meant to introduce participants to concepts and tools for accessing and querying linked data, offered as part of the LD4 2020 Conference.
 
 
 ## Format
