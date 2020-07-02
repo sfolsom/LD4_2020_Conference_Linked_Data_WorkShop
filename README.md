@@ -3,7 +3,7 @@ Here you will find support materials for a workshop meant to introduce participa
 
 
 ## Format
-Asynchronous workshop with video/slides, hands-ons exercises, and “office hours” and Slack Channel to discuss content
+This workshop will be largely asynchronous with video/slides, hands-ons exercises, Slack discussions, and “office hours”. It kicks off on Monday July 6th, 2020, but it will continue through the week. Attendees will primarily interact over Slack. Zoom check-ins are optional and will be scheduled after surveying attendees on their availability.
 
 
 ## Intended audience
